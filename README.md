@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="timer project" src="./assets/img/cover.png" width="100%">
+  <img alt="timer project" src="./assets/img/covr.png" width="100%">
 </p>
 
 ## 🚀 Technologies
