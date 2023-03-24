@@ -1,6 +1,6 @@
 # <h1 align="center">Theme Switcher - Extra Challenge</h1>
 
-<p align="center"> Extra Challenge | Stage 02 - Rockeseat Explorer course</p>
+<p align="center"> Extra Challenge | Discover - RocketSeat </p>
 <p align="center"> Practicing html, css and javascript.</p>
 
 <p align="center">
